@@ -8,3 +8,5 @@ The project contains:
 - A `babel.config.js` which contains babel config.
 - A `jest.config.js` which contains config for `ts-jest` to read `babel` config.
 - A `tsconfig.json` which contains config for `typescript`.
+
+Paul was here
