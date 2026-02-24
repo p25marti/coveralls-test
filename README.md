@@ -1,3 +1,4 @@
+<!-- Maintainer: Paul Martins -->
 # A project to demonstrate how to setup `ts-jest`, `babel` to work together with `jest`
 
 ## Installation
