@@ -1,10 +1,14 @@
 # A project to demonstrate how to setup `ts-jest`, `babel` to work together with `jest`
 
+## Requirements
+- Node.js >= 16.10.0
+- npm >= 7.0.0
+
+This project uses nvm for Node.js version management. To use the recommended version:
+```bash
+nvm use
+```
+
 ## Installation
 Run `yarn` to install dependencies
 
-## Overview about configuration
-The project contains:
-- A `babel.config.js` which contains babel config.
-- A `jest.config.js` which contains config for `ts-jest` to read `babel` config.
-- A `tsconfig.json` which contains config for `typescript`.
